@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="100.667px" height="100.667px" viewBox="0 0 100.667 100.667" xml:space="preserve">
+<g id="Layer_1">
+</g>
+<g id="nyt_x5F_exporter_x5F_info" display="none">
+</g>
+<g id="CloudTrail">
+	<text transform="matrix(1 0 0 1 35.9688 70.6875)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="10.5399">ROOT</text>
+	<g>
+		<g>
+			<g>
+				<path fill="#769B3F" d="M71.455,71.165v2.502c0,0.146-0.01,0.285-0.031,0.426v-2.504C71.445,71.45,71.455,71.308,71.455,71.165"
+					/>
+				<path fill="#769B3F" d="M71.424,71.589v2.504c-0.021,0.164-0.059,0.326-0.109,0.479v-2.502
+					C71.365,71.913,71.402,71.755,71.424,71.589"/>
+				<path fill="#769B3F" d="M71.314,72.069v2.502c-0.059,0.184-0.135,0.359-0.227,0.523v-2.498
+					C71.18,72.427,71.256,72.253,71.314,72.069"/>
+				<path fill="#769B3F" d="M71.088,72.597v2.498c-0.51,0.924-1.496,1.551-2.633,1.551v-2.498
+					C69.592,74.147,70.578,73.517,71.088,72.597"/>
+			</g>
+			<path fill="#769B3F" d="M71.455,71.165v2.502c0,1.637-1.338,2.979-3,2.979v-2.498C70.117,74.147,71.455,72.804,71.455,71.165z"/>
+			<g>
+				<polygon fill="#769B3F" points="69.74,73.632 68.455,76.646 33.692,76.646 32.866,73.507 				"/>
+			</g>
+			<g>
+				<path fill="#769B3F" d="M33.692,74.147v2.498c-1.664,0-3.002-1.342-3.002-2.979v-2.502
+					C30.69,72.804,32.028,74.147,33.692,74.147"/>
+			</g>
+			<path fill="#769B3F" d="M33.692,74.147v2.498c-1.664,0-3.002-1.342-3.002-2.979v-2.502C30.69,72.804,32.028,74.147,33.692,74.147
+				z"/>
+			<g>
+				<path fill="#769B3F" d="M68.455,20.804c1.662,0,3,1.332,3,2.967v47.395c0,1.639-1.338,2.982-3,2.982H33.692
+					c-1.664,0-3.002-1.344-3.002-2.982V23.771c0-1.635,1.338-2.967,3.002-2.967H68.455z"/>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 37.29 71.165)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="13.1409">STS</text>
+	<g>
+		<g>
+			<circle fill="#FFFFFF" stroke="#444444" stroke-width="3" stroke-miterlimit="10" cx="50.431" cy="38.437" r="13.016"/>
+			<line fill="#FFFFFF" stroke="#444444" stroke-width="3" stroke-miterlimit="10" x1="51.5" y1="30.261" x2="51.431" y2="41.636"/>
+		</g>
+		<line fill="#FFFFFF" stroke="#444444" stroke-width="3" stroke-miterlimit="10" x1="45" y1="40.5" x2="52" y2="40.5"/>
+	</g>
+</g>
+</svg>
